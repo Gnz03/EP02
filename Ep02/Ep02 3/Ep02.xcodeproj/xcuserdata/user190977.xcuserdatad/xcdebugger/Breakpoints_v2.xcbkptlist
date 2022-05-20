@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B3F05C0-DC7F-4FBA-8C87-CC302A5CD24C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ep02/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC - 15cea4c7ca094145"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ep02.LoginViewController.__deallocating_deinit"
+                  moduleName = "Ep02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user190977/Downloads/Ep02%203/Ep02/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC - e18c0e0fee7ef98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ep02.LoginViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Ep02.LoginViewController"
+                  moduleName = "Ep02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user190977/Downloads/Ep02%203/Ep02/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC - 81408dcc56d637ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ep02.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Ep02.LoginViewController"
+                  moduleName = "Ep02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user190977/Downloads/Ep02%203/Ep02/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC - a9bb6db0941d1c5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ep02.LoginViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ep02.LoginViewController&gt;"
+                  moduleName = "Ep02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user190977/Downloads/Ep02%203/Ep02/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "E3E6189F-A52F-4A87-A2E6-0E7C6A657ECC - 429d30a5cea0bf20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ep02.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ep02.LoginViewController&gt;"
+                  moduleName = "Ep02"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user190977/Downloads/Ep02%203/Ep02/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
